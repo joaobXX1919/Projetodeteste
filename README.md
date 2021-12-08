@@ -8,4 +8,6 @@ Versão2
 
 RESTORE
 BUILD
+TEST
 PUBLISH
+
