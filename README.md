@@ -8,6 +8,14 @@ Versão2
 
 RESTORE
 BUILD
-TEST
 PUBLISH
 
+
+# Pipeline
+-Restore
+-Test
+-Build
+-Publish
+-Docker build
+-Docker tag
+-Docker Push
